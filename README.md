@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=150&section=header&text=Sunyoung's%20blog%20&fontSize=32&animation=twinkling&color=auto&customColorList=12)
-
 <br/>
 
 :seedling: **Hi, there!** :seedling:
