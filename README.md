@@ -21,9 +21,6 @@
 
 ![Sunnnoi-54's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunnyoi-54&show_icons=true&theme=onedark)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyoi-54&layout=compact)
-
 <br/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sunyoungj)](https://solved.ac/sunyoungj)
