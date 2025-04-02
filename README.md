@@ -8,14 +8,13 @@
 ---
 <br/>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunnyoi-54&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/sunnyoi-54"
-    width="600"
-    height="250"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunnyoi-54&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sunnyoi-54"
+  width="600"
+  height="300"
+/>
 </a>
-
 
 ![Sunnnoi-54's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunnyoi-54&show_icons=true&theme=onedark)
 
