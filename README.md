@@ -4,13 +4,20 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunnyoi-54%2Fsunnyoi-54&count_bg=%23F4BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 :seedling: **Hi, there!** :seedling:
 <br/>
 <br/>
 ---
 <br/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunnyoi-54&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sunnyoi-54"
+    width="600"
+    height="250"
+  />
+</a>
+
 
 ![Sunnnoi-54's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunnyoi-54&show_icons=true&theme=onedark)
 
