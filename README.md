@@ -32,7 +32,7 @@
 
 <br/>
 
-![Suninnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suninnie&show_icons=true&theme=onedark)
+![sunninnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunninnie&show_icons=true&theme=onedark)
 
 <br/>
 
