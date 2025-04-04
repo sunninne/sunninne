@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sunninnie&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sunninnie&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" />
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: middle;">
       <a href="https://solved.ac/sunyoungj">
