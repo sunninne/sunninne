@@ -1,4 +1,3 @@
-<div align="center">
 
 <br/>
 
@@ -19,6 +18,17 @@
 <br/>
 <br/>
 
+₍ᵔ·͈༝·͈ᵔ₎
+<br/>
+<br/>
+---
+
+
+- 전선영
+- 컴퓨터공학과 다니는 중!
+
+##
+<br/>
 <table>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: middle;">
@@ -32,11 +42,6 @@
   </tr>
 </table>
 
-₍ᵔ·͈༝·͈ᵔ₎
-<br/>
-<br/>
----
+##
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</div>
