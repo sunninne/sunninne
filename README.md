@@ -1,7 +1,7 @@
 
 <br/>
 
-:seedling: **Hi, there!** :seedling:
+:seedling: **sunninnie day!** :seedling:
 <br/>
 <br/>
 ---
@@ -24,8 +24,9 @@
 ---
 
 
-- 전선영
-- 컴퓨터공학과 다니는 중!
+- 😽 전선영
+- 🐾 컴퓨터공학과 다니는 중!
+- 💌 minnie2002@naver.com
 
 ##
 <br/>
